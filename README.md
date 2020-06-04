@@ -1,6 +1,7 @@
 # listview_custom_with_rest_api
-
-A new Flutter project.
+- Listview with Custom list item [Image, text]
+- Load image from URL
+- Rest API call with JSON parsing
 
 ## Getting Started
 
